@@ -1,0 +1,93 @@
+nav
+{
+	 text-align: right;  
+}
+
+div#logodiv
+{
+	background-color:pink;
+	margin-bottom: 0;
+	height:120px;
+}
+
+ul#menu li {
+	display:inline;
+}
+
+
+
+
+div#logodiv img
+{
+	height:120px;
+	margin:0px;
+}
+
+div#headerdiv
+{
+	background-color:red;
+	margin:0px;
+	height:50px;
+}
+
+div#phoneimage {
+	position: absolute;
+	width: 90%;
+	height:1600px;
+	top: 300px;
+	left: 0;
+	right: 0;
+	margin: auto;
+}
+
+div#debitimage {
+	position: absolute;
+	width: 800px;
+	height: 800px;
+	left:0;
+	top: 800px;
+
+}
+
+div#scooterimage {
+	position: absolute;
+	width: 800px;
+	height: 800px;
+	right:0;
+	top: 800px;
+
+}
+.cropped {
+
+	height:300px; 
+	overflow: hidden;
+}
+
+.cropped img
+{ 
+	width: 1600px;
+	margin: -80px -0px 0px -80px; 
+}
+
+div#headline
+{
+	position:absolute
+	top: 250px;
+}
+
+div#wrapbottomdiv
+{
+	position:relative;
+	top: 1200px;
+	width: 100%;
+	left:0;
+	right:0;
+}
+
+div#logodiv
+{
+	left:50%;
+}
+
+
+
